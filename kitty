@@ -1,0 +1,49 @@
+background              #FFF0CF
+foreground              #231F20
+background_opacity      1.0
+
+cursor                  #ED1651
+cursor_text_color       #FFF0CF
+cursor_shape            beam
+
+selection_background    #ED1651
+selection_foreground    #FFF0CF
+color0                  #231F20
+color8                  #514447
+
+# Red
+color1                  #ED1651
+color9                  #FF527C
+
+# Green
+color2                  #77765E
+color10                 #989477
+
+# Yellow
+color3                  #FEDE00
+color11                 #FFE95C
+
+# Blue
+color4                  #A85B56
+color12                 #C27B70
+
+# Magenta
+color5                  #B32B54
+color13                 #D84A70
+
+# Cyan
+color6                  #B5A88C
+color14                 #D4C5A4
+
+# White
+color7                  #FCF0D1
+color15                 #FDF3D4
+
+
+window_padding_width    12
+hide_window_decorations yes
+confirm_os_window_close 0
+
+font_size               11.5
+bold_font               auto
+italic_font             auto
